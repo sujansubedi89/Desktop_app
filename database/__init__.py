@@ -1,0 +1,3 @@
+# database/__init__.py
+# Empty file — tells Python this folder is a package
+# Required so other files can do: from database.crud import ...
